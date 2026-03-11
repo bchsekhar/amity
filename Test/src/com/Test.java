@@ -30,7 +30,10 @@ System.out.println("printfrom updated branch cs code");
 }
 
 
-
+String name() {
+	
+	return "main branch code";
+}
 
 static void main(){
 	System.out.println("main from branch main code");
