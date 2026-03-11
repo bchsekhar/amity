@@ -9,6 +9,7 @@ public class Test {
 
 System.out.println("hi from branch cs code");
    print();
+   main();
 
 	}
 	
@@ -24,6 +25,12 @@ static void print(){
 System.out.println("printfrom branch cs code");
 }
 
+
+
+
+static void main(){
+	System.out.println("main from branch main code");
+}
 
 
 
