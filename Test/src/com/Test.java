@@ -7,7 +7,8 @@ public class Test {
 		System.out.println("hi Welcome from cs branch");
 //which is testing phase
 
-System.out.println("hi from branch code");
+System.out.println("hi from branch cs code");
+System.out.println("hell from branch chan code");
 
 
 	}
