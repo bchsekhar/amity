@@ -32,7 +32,7 @@ System.out.println("printfrom updated branch cs code");
 
 String name() {
 	
-	return "main branch code";
+	return "cs branch code";
 }
 
 static void main(){
