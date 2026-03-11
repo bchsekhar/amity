@@ -39,4 +39,8 @@ static void print1(){
 	System.out.println("print1 from branch  updated chan code");
 }
 
+static void cs(){
+	System.out.println("cs from branch  method cs code");
+}
+
 }
