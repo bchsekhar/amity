@@ -8,9 +8,15 @@ public class Test {
 //which is testing phase
 
 System.out.println("hi from branch cs code");
-System.out.println("hell from branch chan code");
-
+   print();
 
 	}
+
+
+static void print(){
+
+
+System.out.println("printfrom branch cs code");
+}
 
 }
