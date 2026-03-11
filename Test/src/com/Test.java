@@ -24,7 +24,7 @@ System.out.println("printfrom branch cs code");
 
 
 static void print1(){
-	System.out.println("print1 from branch chan code");
+	System.out.println("print1 from branch  updated chan code");
 }
 
 }
