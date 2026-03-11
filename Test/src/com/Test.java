@@ -36,7 +36,7 @@ static void main(){
 
 
 static void print1(){
-	System.out.println("print1 from branch chan code");
+	System.out.println("print1 from branch  updated chan code");
 }
 
 }
