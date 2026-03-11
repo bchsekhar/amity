@@ -22,11 +22,9 @@ System.out.println("hi from branch cs code");
 static void print(){
 
 
-<<<<<<< HEAD
 System.out.println("printfrom branchblalalalalalal cs code");
-=======
-System.out.println("printfrom updated branch cs code");
->>>>>>> 2e063062bf70070f1ebc67dee8c1b022de04e52e
+
+
 }
 
 
