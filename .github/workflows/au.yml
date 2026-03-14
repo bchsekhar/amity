@@ -28,7 +28,7 @@ jobs:
 
       - name: Compile Java Source
         run: |
-          cd Test1/src
+          cd Test/src
           javac -d . *.java
 
 
